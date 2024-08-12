@@ -4,6 +4,7 @@ Java code practice
 Sliding Window:
   1. Minimum Window Substring
   2. Longest Substring without Duplicates
+  3. Buy and Sell Crypto
 
 Linked List: 
   1. DeleteNthNode
