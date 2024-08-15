@@ -5,6 +5,7 @@ Sliding Window:
   1. Minimum Window Substring
   2. Longest Substring without Duplicates
   3. Buy and Sell Crypto
+  4. Longest Increasing Sequence
 
 Linked List: 
   1. DeleteNthNode
@@ -17,3 +18,6 @@ Trees:
 
 Stack: 
   1. Valid Parenthesis
+
+String:
+  1. Is Palindrome
